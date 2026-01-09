@@ -1,0 +1,9 @@
+
+{
+  "name": "SG Coaching Centre",
+  "description": "Official website for SG Coaching Centre, Saidi, Nalanda. Specialized in Class X+ education with experienced faculty.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
