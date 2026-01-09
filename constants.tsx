@@ -14,7 +14,7 @@ export const DEVELOPER_INFO = {
   name: "Anand Kumar",
   email: "anandevs188@gmail.com",
   phone: "+91 7033626094",
-  image: "/public/anand.jpg", // Generic dev photo placeholder
+  image: "/anand.jpg", // Generic dev photo placeholder
   role: "Lead Full Stack Developer",
   description: "Passionate developer dedicated to building high-quality, impactful web solutions for education and community growth.",
   linkedIn: "https://www.linkedin.com/in/anand-kumar-77177b21b",
@@ -28,7 +28,7 @@ export const TEACHERS: Teacher[] = [
     qualification: 'B.Sc (Math Hons), B.Ed (2026)',
     experience: '6+ Years',
     subjects: ['Mathematics', 'Science'],
-    image: '/public/pankaj-sir.png', // Placeholder for Pankaj Sir
+    image: '/pankaj-sir.png', // Placeholder for Pankaj Sir
     description: 'Expert mathematician with a track record of helping over 1000+ students achieve top marks in board exams.',
     type: 'Lead Instructor'
   },
@@ -38,7 +38,7 @@ export const TEACHERS: Teacher[] = [
     qualification: 'B.Sc (Physics Hons), B.Ed',
     experience: '13+ Years',
     subjects: ['Science', 'Maths', 'Sst'],
-    image: '/public/rupesh-sir.jpeg', 
+    image: '/rupesh-sir.jpeg', 
     description: 'With 13+ years of teaching experience, Rupesh Sir brings deep subject knowledge in Science, Maths, and SST. As Director, he focuses on quality education, strong fundamentals, and overall student development.',
     type: 'Director'
   }
